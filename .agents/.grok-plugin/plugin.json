@@ -1,0 +1,7 @@
+{
+  "name": "autoresearch",
+  "version": "2.3.0",
+  "description": "Autonomous goal-directed iteration: modify, verify, keep/discard, repeat. Upstream: github.com/uditgoenka/autoresearch",
+  "repository": "https://github.com/uditgoenka/autoresearch",
+  "license": "MIT"
+}
